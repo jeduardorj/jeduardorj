@@ -23,7 +23,7 @@
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js" target="_blank"></a>
   <a href="https://instagram.com/eduoliveirarj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/EduardoOliveira#0034" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:zezorot@"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
